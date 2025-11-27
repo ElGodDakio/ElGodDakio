@@ -6,7 +6,6 @@
 
 Hi there! I'm **ElGodDakio**, a **web and game developer** passionate about creating engaging digital experiences.
 
-* 🌱 Currently learning **GDScript**
 * 💻 I code with **Python**, **JavaScript / TypeScript**, **HTML / CSS**
 * 🎮 I develop **websites** and **video games**
 * 💬 You can contact me with:
@@ -20,7 +19,6 @@ Hi there! I'm **ElGodDakio**, a **web and game developer** passionate about crea
 
 Salut ! Moi c’est **ElGodDakio**, un **développeur web et jeux vidéo** passionné par la création d’expériences numériques captivantes.
 
-* 📖 J’apprends actuellement le **GDScript**
 * 💻 Je code en **Python**, **JavaScript / TypeScript**, **HTML / CSS**
 * 🎮 Je développe des **sites web** et des **jeux vidéo**
 * 💬 Tu peux me contacter via :
@@ -39,6 +37,7 @@ Salut ! Moi c’est **ElGodDakio**, un **développeur web et jeux vidéo** passi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge\&logo=godot-engine\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Bedrock Scripting API](https://img.shields.io/badge/Bedrock%20Scripting%20API-3C8527?style=for-the-badge&logo=minecraft&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
